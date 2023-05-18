@@ -1,6 +1,7 @@
 # EkhushBD
 ## An Effective E-Commerce System for Bangladesh to Adopt – An Empirical Study
 **- Khorshed Alam, Mahbubul Haq Bhuiyan, Jawadur Rahman, Abul Hasan Fahim, Md. Ashik Miah** 
+
 The e-commerce industry is booming in Bangladesh, and there is a growing demand for more advanced
 features and functionalities that enhance user experience and increase sales. This paper presents an analysis
 of some key ideas that are not currently available in the e-commerce platforms in Bangladesh. These ideas
